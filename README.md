@@ -27,6 +27,15 @@ The goal is to simulate a real-world workforce analytics use case using Power BI
 
 ---
 
+## Business Problem
+
+How will AI impact jobs across major industries in India?
+Which roles are at high automation risk?
+Which skills have the highest future demand?
+Which career paths are safest?
+
+---
+
 ## Dashboard Preview
 
 ### Home Page – Executive Overview
@@ -102,6 +111,17 @@ The dataset includes:
 - Demand Growth %
 - Skill Category
 - Risk Category
+
+---
+
+##  Key DAX Measures
+
+- Total Job Roles
+- Average Automation Risk %
+- Future Score
+- Best Career Choice
+- High Risk Jobs Count
+- Low Risk Jobs Count
 
 ---
 
