@@ -29,10 +29,10 @@ The goal is to simulate a real-world workforce analytics use case using Power BI
 
 ## Business Problem
 
-How will AI impact jobs across major industries in India?
-Which roles are at high automation risk?
-Which skills have the highest future demand?
-Which career paths are safest?
+- How will AI impact jobs across major industries in India?
+- Which roles are at high automation risk?
+- Which skills have the highest future demand?
+- Which career paths are safest?
 
 ---
 
